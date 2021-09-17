@@ -1,0 +1,98 @@
+.square {
+    height: 800px;
+    width: 800px;
+    background-color: rgb(224, 224, 224);
+    display: flex;
+    align-items: center;
+    border-radius: 3%;
+}
+
+.header1 {
+    font-size: 200%;
+    text-align: center;
+
+}
+
+span {
+	position: absolute;
+    font-size: 150%;
+	top: 100px;
+	left: 0;
+	width: 100%;
+}
+
+form {
+    position: absolute;
+    font-size: 120%;
+	top: 150px;
+	left: 0;
+	width: 100%;
+}
+
+.p3 {
+    position: absolute;
+    font-size: 100%;
+	top: 80px;
+	right: 120;
+	width: 100%;
+    
+}
+
+.wheredid {
+    position: absolute;
+    font-size: 100%;
+	top: 120px;
+	right: 87;
+	width: 100%;
+}
+
+.atwhat {
+    position: absolute;
+    font-size: 100%;
+	top: 150px;
+	right: 200;
+	width: 100%;
+}
+
+.whatemot{
+    position: absolute;
+    left:335;
+    top:220px;
+}
+
+.selectall{
+    position: absolute;
+    left:445;
+    top:240px;
+}
+
+.pleasedesc{
+    position: absolute;
+    left: 297;
+}
+
+.fields{
+    position:absolute;
+    top:415px;
+    left:620;
+}
+
+.button {
+    position: absolute;
+    color: blue;
+    top: 470px;
+    left: 670;
+
+}
+
+.radio {
+    display: block;
+    font-size: 80%;
+    
+}
+
+.user-selection{
+    position: absolute;
+    right:700;
+
+}
