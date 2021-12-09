@@ -224,8 +224,8 @@ humans = [
 ]
 
 console.log(humans);
-console.log(humans[3].getInfo());
-console.log(humans[7].firstname);
+console.log(humans[1].getInfo());
+console.log(humans[2].firstname);
 
 /* 18) Получите в переменную dt1 дату соответствующую 0:00, 1 января 2045 года, при помощи конструктора Date() */
 
